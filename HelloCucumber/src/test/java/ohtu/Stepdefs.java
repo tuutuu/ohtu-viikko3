@@ -1,5 +1,6 @@
 package ohtu;
 
+import cucumber.api.PendingException;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -22,6 +23,12 @@ public class Stepdefs {
     public void it_is_incremented_by(int val) throws Throwable {
         counter.increment(val);
     }     
+    
+    @When("^it is reseted$")
+    public void it_is_reseted() throws Throwable {
+        // Write code here that turns the phrase above into concrete actions
+        counter.reset();
+    }
 
     @Then("^the value should be (\\d+)$")
     public void the_value_should_be(int val) throws Throwable {
