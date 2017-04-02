@@ -1,4 +1,4 @@
-##Start, Stop, Continue, More of, Less of Wheel
+## Start, Stop, Continue, More of, Less of Wheel
 
 10 minutes of meta process discussion.
 
@@ -16,7 +16,7 @@ Less of - what is not as important as we thought?
 
 Comments are encouraged and divided into these sections.
 
-##Glad, Sad, Mad
+## Glad, Sad, Mad
 
 Participants write notes on small index cards. Participants very briefly describe their cards and place them on a whiteboard. This is just so that other participants understand what the content means.
 
